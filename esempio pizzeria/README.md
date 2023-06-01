@@ -1,24 +1,17 @@
-## Rock Paper Scissors
+## Pizzeria
 
-# Instructions
+Il report riguarda le vendite di una pizzeria americana. Questa è una sfidadi analisi presente sul sito Kaggle (Maven Analytics) 
 
-Make a rock, paper, scissors game. 
+Ho cercato di rispondere alle seguenti domande
 
-Inside the `main.py` file, you'll find the ASCII art for the hand signals already saved to a corresponding variable: `rock`, `paper`, and `scissors`. This will make it easy to print them out to the console. 
+1) Quali sono i giorni e i periodi del giorno in cui si lavora di più?
+2) Quante pizze facciamo durante questi periodi?
+3) Qual'è la pizza più venduta e quella meno venduta?
+4) Quale è la spesa media per ordine?
+5) Stiamo sfruttando la capacità al massimo? ( consideriamo che la pizzeria ha 15 tavoli per un complessivo di 60 posti) 
 
-Start the game by asking the player:
+La sfida richiede di inserire tutte queste informazioni in un'unica pagina di report
 
-*"What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors."*
+# Dati
 
-From there you will need to figure out: 
-* How you will store the user's input.
-* How you will generate a random choice for the computer.
-* How you will compare the user's and the computer's choice to determine the winner (or a draw).
-* And also how you will give feedback to the player. 
-
-You can find the "official" rules of the game on [the World Rock Paper Scissors Association website.](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/)
-
-
-# Solution
-
-[https://replit.com/@appbrewery/rock-paper-scissors-end](https://replit.com/@appbrewery/rock-paper-scissors-end)
+The public dataset is completely available on the Maven Analytics website platform where it stores and consolidates all available datasets for analysis in the Data Playground. The specific individual datasets at hand can be obtained at this link below: https://www.mavenanalytics.io/blog/maven-pizza-challenge
