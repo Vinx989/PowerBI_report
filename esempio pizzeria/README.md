@@ -26,7 +26,13 @@ Le icone presenti nel report sono prese da https://icons8.it/
 - ### Notte
     Questo è un pop-up che mostra le pizze vendute dopo le ore 23:00 nell'intero anno
     
-    
+# File pgg
+
+-### main
+  Rappresenta la pagina del report con le principali informazioni
+-### pop_upCapienza
+  Rappresenta il pop-up relativo allo studio dell'occupazione dei tavoli
+
 # Dati
 
 The public dataset is completely available on the Maven Analytics website platform where it stores and consolidates all available datasets for analysis in the Data Playground. The specific individual datasets at hand can be obtained at this link below: https://www.mavenanalytics.io/blog/maven-pizza-challenge
