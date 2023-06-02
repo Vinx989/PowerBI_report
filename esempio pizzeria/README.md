@@ -26,11 +26,11 @@ Le icone presenti nel report sono prese da https://icons8.it/
 - ### Notte
     Questo è un pop-up che mostra le pizze vendute dopo le ore 23:00 nell'intero anno
     
-# File pgg
+# File png
 
--### main
+- ### main
   Rappresenta la pagina del report con le principali informazioni
--### pop_upCapienza
+- ### pop_upCapienza
   Rappresenta il pop-up relativo allo studio dell'occupazione dei tavoli
 
 # Dati
