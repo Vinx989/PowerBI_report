@@ -1,4 +1,4 @@
-# Esempio pbollette
+# Esempio bollette
 Questo report riguarda il fatturato di un'azienda che fornisce servizi (gas & luce) nel mese di Mrzo 2020.
 
 I dati sono dati fittizi creati in modo 'random' e riguardano la penisola italiana
