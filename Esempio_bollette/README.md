@@ -16,4 +16,16 @@ Il report è suddiviso in 4 facciate principali.
    A questa facciata si accede tenendo premuto crtl e cliccando sull'icona raffigurante il Fatturato. In questa pagina trovate il focus sui paganti e sulle tipologie di pagamento. Anche qui trovate dei filtri in alto a destra riguardanti i tipi di servizi. Luce (EE), Gas (GAS) e altri servizi (SERV)
 - ### Divisione provincia
    A questa facciata si accede tenendo premuto crtl e cliccando sull'icona raffigurante l'Importo previsto. Qui si fa un focus sugli insoluti e potete trovare due filtri in alto a destra che analizzano il caso sia per regione che per zona d'Italia.
+   
+Le altre pagine all'interno del report fungono da pop-up per evidenziare alcuni aspetti
+   
+# File png
 
+- ### main
+  Qui si vede la pagina principale del report
+- ### paganti
+  Qui si vede la facciata relativa ai pagamenti
+- ### tipcliente
+  Qui è rappresentata la pagine che descrive i clienti
+- ### divisioneProvincia
+  Qui viene mostrata la pagina relativa agli insoluti
