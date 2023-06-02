@@ -12,6 +12,8 @@ Ho cercato di rispondere alle seguenti domande
 
 La sfida richiede di inserire tutte queste informazioni in un'unica pagina di report
 
+Le icone presenti nel report sono prese da https://icons8.it/ 
+
 # Struttura
 
 - ### Report
